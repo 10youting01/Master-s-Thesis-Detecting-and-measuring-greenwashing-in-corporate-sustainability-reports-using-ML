@@ -5,6 +5,7 @@ CSR_report_processed_re_v4
 CSR_report_processed_re_v5
 CSR_report_processed_v3
 CSR_report_processed_v4
+CSR_report_processed_v4_gemini_v0
 
 CSR_score/
 preprocess/subwordbert-probwordnoise
