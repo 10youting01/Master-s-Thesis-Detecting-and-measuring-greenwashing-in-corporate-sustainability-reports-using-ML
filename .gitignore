@@ -6,6 +6,7 @@ CSR_report_processed_re_v5
 CSR_report_processed_v3
 CSR_report_processed_v4
 CSR_report_processed_v4_gemini_v0
+CapitalIQ_Transcript_WRDS_Data
 
 CSR_score/
 preprocess/subwordbert-probwordnoise
